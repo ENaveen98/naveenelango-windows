@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.naveenelango.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "http://google.com",
     "social": [
       {
         "name": "twitter",
@@ -26,11 +26,6 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/naveen-e-889a536a",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -115,15 +110,25 @@
       }
     ]
   },
+  "readbooks": {
+    "books": [
+      {
+        "title": "Deep Work",
+        "category": "Personal Development.",
+        "image": "Visualizer.png",
+        "url": "https://github.com/ENaveen98"
+      }
+    ]
+  },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "A dream is not that which you see while sleeping, it is something that does not let you sleep.",
+        "user": "A.P.J. Abdul Kalam"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Whatever it takes!",
+        "user": "Imagine Dragons"
       }
     ]
   }

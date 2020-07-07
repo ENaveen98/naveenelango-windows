@@ -4,17 +4,17 @@ import { Link } from "react-router-dom";
 class Books extends Component {
   render() {
     if (this.props.data) {
-      var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = "images/portfolio/" + projects.image;
+      var books = this.props.data.books.map(function (books) {
+        var projectImage = "images/books/" + books.image;
         return (
-          <div key={projects.title} className="columns portfolio-item">
+          <div key={books.title} className="columns books-item">
             <div className="item-wrap">
-              <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
+              <a href={books.url} title={books.title}>
+                <img alt={books.title} src={projectImage} />
                 <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
+                  <div className="books-item-meta">
+                    <h5>{books.title}</h5>
+                    <p>{books.category}</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -31,13 +31,16 @@ class Books extends Component {
       <section id="books">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
-            <Link to="/users">Show List of Users</Link>
+            <h1>
+              Over here I will be adding my views on a few books that I'm
+              currently reading. Adding this section motivates me to take up on
+              reading. Please wait until I finish my first book!
+            </h1>
             <div
-              id="portfolio-wrapper"
+              id="books-wrapper"
               className="bgrid-quarters s-bgrid-thirds cf"
             >
-              {projects}
+              {books}
             </div>
           </div>
         </div>
