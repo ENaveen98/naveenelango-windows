@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Naveen Elango",
+    "occupation": "Student",
+    "description": "Everything about a computer excites me!",
+    "image": "profilepic.jpg",
+    "bio": "Currently exploring the domain of Artificial Intelligence and Systems Engineering",
+    "contactmessage": "If you need any information get in touch with me in any of the communications provided.",
+    "email": "enaveen98@gmail.com",
+    "phone": "+91 90032 78157",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.naveenelango.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/naveenelango98",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/naveen-e-889a536a",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ENaveen98",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Indian Institute of Technology Madras",
+        "degree": "Batchelor of Technology in Mech. Engineering",
+        "graduated": "June 2020",
+        "description": "Indian Institute of Technology Madras, or shortly known as IITM, is the No.1 ranking engineering institute in India. Over the course of 4 years at IITM I developed a deep interest in fields such as Computer Science, Mathematics and Artificial Intelligence and gained valuable knowledge by enrolling in various courses across different Departments and undertaking Summer Internships. The flexibility offered by IITM was pivotal in shaping the person who I am today."
+      }
+    ],
+    "work": [
+      {
+        "company": "TrexQuant",
+        "title": "Global Alpha Researcher",
+        "years": "February 2020 - Present",
+        "description": "As a Global Alpha Researcher I model market neutral trading signals to create a portfolio covering the US stock market."
+      },
+      {
+        "company": "AB InBev",
+        "title": "Data Scientist - Summer Intern",
+        "years": "May 2019 - July 2020",
+        "description": "At AB InBev I was involved in developing a tool by designing Unsupervised Error detection Algorithms for cleaning erroneous data in DataBases automatically without any human intervention. Based on my accomplishments, interpersonal skills and the rigour of the project, the Senior Leaders at the company extended me a Pre-Placement Offer to join as a full-time Data Scientist."
+      },
+      {
+        "company": "Clootrack",
+        "title": "Natural Language Processing Engineer - Intern",
+        "years": "March 2019 - May 2019",
+        "description": "At Clootrack I was engaged on developing a Customer Feedback Categorization System for several of E-Commmerce companies wherein the feedbacks are tagged under different categories for quick action by these companies to help maintain their relationship with the customers. During the internship period I was working remotely from campus under the guidance of a well renowned Professor from the Department of Management Studies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Visualizer for Shortest Distance Algorithm",
+        "category": "Full-Stack project using JavaScript, HTML and CSS.",
+        "image": "Visualizer.png",
+        "url": "https://github.com/ENaveen98"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
