@@ -263,7 +263,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #fff;
+  background: rgb(226, 255, 239);
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -306,7 +306,7 @@ ul#nav li.current a {
 }
 #resume .info {
   font: 16px/24px "librebaskerville-italic", serif;
-  color: #6e7881;
+  color: rgb(56, 53, 53);
   margin-bottom: 18px;
   margin-top: 9px;
 }
@@ -318,7 +318,9 @@ ul#nav li.current a {
   font: 15px/24px "opensans-regular", sans-serif;
   margin-top: 6px;
 }
-
+#resume p {
+  color: rgb(56, 53, 53);
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -455,7 +457,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
+  background: #2b2b2b;
   padding-top: 90px;
   padding-bottom: 60px;
 }
@@ -465,7 +467,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: white;
 }
 
 /* Portfolio Content */
@@ -704,7 +706,7 @@ call-to-action .button {
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: black;
 }
 
 /* Books Content */
